@@ -10,12 +10,6 @@
 			<version>3.2.6.RELEASE</version>
 		</dependency>
 		
-		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.1</version>
-		</dependency>
-
 		<!-- Bean validation -->
 		<dependency>
 			<groupId>javax.validation</groupId>
@@ -60,19 +54,6 @@
 			<artifactId>slf4j-api</artifactId>
 			<version>1.7.5</version>
 		</dependency>
-		<!-- SLF4J Simple implementation : sends log messages to the console -->
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-simple</artifactId> 
-			<version>1.7.5</version>
-		</dependency>
-		<!--  SLF4J NOP (no operation) implementation
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-nop</artifactId>
-			<version>1.7.5</version>
-		</dependency>
-		-->
 		<!-- SLF4J Simple implementation : sends log messages to the console -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
